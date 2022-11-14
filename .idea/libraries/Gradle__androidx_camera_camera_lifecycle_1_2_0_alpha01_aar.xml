@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.camera:camera-lifecycle:1.2.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9cd490e6f02fd5a2e972427c988c287c/transformed/camera-lifecycle-1.2.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9cd490e6f02fd5a2e972427c988c287c/transformed/camera-lifecycle-1.2.0-alpha01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9cd490e6f02fd5a2e972427c988c287c/transformed/camera-lifecycle-1.2.0-alpha01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/9cd490e6f02fd5a2e972427c988c287c/transformed/camera-lifecycle-1.2.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/9cd490e6f02fd5a2e972427c988c287c/transformed/camera-lifecycle-1.2.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/9cd490e6f02fd5a2e972427c988c287c/transformed/camera-lifecycle-1.2.0-alpha01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-lifecycle/1.2.0-alpha01/dded7f87640a8c9dfd4e62c178a08599bb1c63d5/camera-lifecycle-1.2.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

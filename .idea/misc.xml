@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.321875" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_add_story.xml" value="0.24635416666666668" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_all_story.xml" value="0.16799999999999998" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_camera.xml" value="0.25" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_detail_story.xml" value="0.24635416666666668" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Story-App-Dicoding-main/app/src/main/res/menu/map_options.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_close_24.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/back.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/bg_button.xml" value="0.107" />
+        <entry key="app/src/main/res/drawable/bg_button_disable.xml" value="0.107" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cameraswitch_24.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_capture.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_place_holder.xml" value="0.107" />
+        <entry key="app/src/main/res/layout-v23/activity_all_story.xml" value="0.184375" />
+        <entry key="app/src/main/res/layout/activity_add_story.xml" value="0.3015799259793931" />
+        <entry key="app/src/main/res/layout/activity_all_story.xml" value="0.3330188679245283" />
+        <entry key="app/src/main/res/layout/activity_camera.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/activity_detail_story.xml" value="0.26438751220703127" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2974341129911119" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3660330509793932" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3626912434895834" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.3814956665039063" />
+        <entry key="app/src/main/res/layout/fragment_maps.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/item_loading.xml" value="0.20625" />
+        <entry key="app/src/main/res/layout/layout_bottom_sheet.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/list_story.xml" value="0.3571858723958333" />
+        <entry key="app/src/main/res/menu/map_options.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/xml/styles.xml" value="0.19610507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="signup">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="allStory">ALL STORY</string>
+    <string name="createdAt">Dibuat</string>
+    <string name="message_welcome_page">Share you thoughts and study process here at Insta Dicoding! You can connect with people at Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Insta Dicoding!</string>
+    <string name="title_signup_page">Fill in your data here to register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Fill in your login data here</string>
+    <string name="title_login_page">Ready to connect with other people?</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="copyright">© 2022 Android Master</string>
+    <string name="message_main_page">What are you up to?</string>
+    <string name="greetingStory">Welcome aboard %1$s,</string>
+    <string name="greeting">Hi %1$s,</string>
+    <string name="logout">LOGOUT</string>
+    <string name="addStory">ADD NEW STORY</string>
+    <string name="shareButton">SHARE THIS STORY</string>
+    <string name="maps_button">MAPS</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="retry">Coba lagi</string>
+</resources>

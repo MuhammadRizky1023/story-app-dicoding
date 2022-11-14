@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.5.0-alpha01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/res" />
+      <root url="file://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/transforms-3/52127ae5789587f551930138339366cf/transformed/room-runtime-2.5.0-alpha01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/TheShopApp/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.5.0-alpha01/1371c53bba60d6d63b25f0ef6e6f8a3520f49b75/room-runtime-2.5.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><color name="palette_black">#121212</color>
+    <color name="palette_blue">#30475E</color>
+    <color name="palette_red">#FF5858</color>
+    <color name="palette_white">#F5F5F5</color>
+
+    <color name="secondary_white">#F2F4F7</color>
+    <color name="secondary_blue">#111F4D</color>
+    <color name="secondary_red">#E43A19</color>
+
+    <color name="palette_darker_red">#990000</color>
+    <color name="palette_darker_blue">#032535</color>
+</resources>

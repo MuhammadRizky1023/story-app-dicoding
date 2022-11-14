@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Latihan_CameraX" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/palette_red</item>
+        <item name="colorPrimaryVariant">@color/palette_blue</item>
+        <item name="colorOnPrimary">@color/palette_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary_red</item>
+        <item name="colorSecondaryVariant">@color/palette_black</item>
+        <item name="colorOnSecondary">@color/palette_blue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">?attr/colorSecondaryVariant</item>
+
+        <!-- specify enter and exit transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/explode</item>
+        <item name="android:windowExitTransition">@android:transition/explode</item>
+    </style>
+</resources>
